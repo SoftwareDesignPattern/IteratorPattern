@@ -1,0 +1,12 @@
+﻿
+
+Iterator Pattern:
+
+Provide a way to access the elements of an aggregate object sequentially 
+without exposing its underlying representation. 
+
+This is an alternative to the How to use the IEnumerable/IEnumerator interfaces.
+
+
+
+
